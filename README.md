@@ -1,6 +1,6 @@
 # Flow State
 A simple task manager app that allows myself and others to efficiently finish daily tasks.
-Check out FlowState [here!](https://flashcard-quiz-zoheb-akhtars-projects.vercel.app/)
+<br /> <br />  Check out FlowState [here!](https://flashcard-quiz-zoheb-akhtars-projects.vercel.app/)
 
 ## Features
 **Task Creation and Display:** Create your daily tasks with categories such as urgency, date, description, and name <br/>
