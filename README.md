@@ -1,4 +1,3 @@
-# Flow State
 Check out The Flashcard Quiz App [here!](https://flashcard-quiz-zoheb-akhtars-projects.vercel.app/)
 
 # Flow State
